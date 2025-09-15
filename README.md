@@ -16,6 +16,7 @@ The dataset is related to the **PhysioNet/Cin Challenge 2017** dataset (Clifford
 - **Test set:** 2,649 samples (labels not provided for final evaluation)  
 
 Each observation is a **time series of ECG signal measurements** sampled at **300 Hz** and labeled into one of four categories:  
+
 0. Normal  
 1. Atrial fibrillation (AF)  
 2. Other (neither normal nor AF)  
